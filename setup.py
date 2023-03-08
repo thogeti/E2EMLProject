@@ -15,7 +15,7 @@ def get_requirements(file_path:str)->List[str]:
 
 setup(name='E2EMLProject',
       version='1.0',
-      description='Python Distribution Utilities',
+      description='ML End to end project',
       author='Praveen.thogei',
       author_email='thogeti.aimldl@gmail.com',
       
